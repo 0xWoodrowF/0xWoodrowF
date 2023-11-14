@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @0xWoodrowF
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+👋 Hi, I’m Woodrow
+
+What i'm currently messed up into:
+- 👀 A BS Applied Math student
+- 🌱 Currently learning Computer simulations
+- 🔭 Interests in simulation, design, and math
 
 
 <!---
