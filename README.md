@@ -1,7 +1,7 @@
 👋 Hi, I’m Woodrow
 
-What i'm currently messed up into:
-- 👀 A BS Applied Math student
+Agenda in my life:
+- 👨‍🦰 BS Applied Math student
 - 🌱 Currently learning computer aided simulations
 - 🔭 Interests in simulation, design, and math
 
