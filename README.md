@@ -2,7 +2,7 @@
 
 What i'm currently messed up into:
 - 👀 A BS Applied Math student
-- 🌱 Currently learning Computer simulations
+- 🌱 Currently learning computer aided simulations
 - 🔭 Interests in simulation, design, and math
 
 
