@@ -5,6 +5,7 @@ Agenda in my life:
 - 🌱 Currently learning computer aided simulations
 - 🔭 Interests in simulation, design, and math
 
+Currently Exploring ⛵ SFML.
 
 <!---
 0xWoodrowF/0xWoodrowF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
